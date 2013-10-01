@@ -12,13 +12,24 @@ Explain how this example fits the premise and what the funny is in about three t
 
 http://example.com/from-legit-source-as-reference
 
-
 [center][size=14pt]SAMPLE DRAFT[/size][/center]
 
 [b]Example that fits the premise[/b]
 
-300-500 words written up as if it was live on the site. Using links as part of body text, properly formatted. 
+300-500 words written up as if it was live on the site. 
+That includes jokes in the Cracked style.
+Using links as part of body text, properly formatted, 
+ or leave raw URLs in parentheses next to reference.
 
 Including this and the above examples to fall under 2000 words. 
 Images are optional unless it's a visually heavy/reliant pitch.
 
+
+Notes
+
+- Do not cite Wikipedia, Huffington Post, Daily Mail, tabloids, Fox News, blogs
+  and related sites of dubious quality/nature as sources. 
+- If source is from a book, find a link to preview pages, such as Google Books, 
+  and mention the author, title and publisher.
+- If source is video, link to video and provide timestamps of when to start watching
+  up to when the reference ends. Even if that means the whole video.
